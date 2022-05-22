@@ -1,0 +1,62 @@
+{
+  "Commands": {
+    "Help": {
+      "misc": "Divers",
+      "howto": "Comment utiliser le bot",
+      "list": "Liste des parties d'emotes.",
+      "create": "Créez un émoji à partir de parties.",
+      "credits": "Crédits",
+      "idea": "Idée originale par",
+      "assets": "Ressources et parties par"
+    },
+    "Guide": {
+      "bot_info": "Un bot fun pour générer et créer des émojis en utilisant différentes parties, pour que tu puisses les partager ou les sauvegarder dans ton serveur Discord.",
+      "parts_info": "Utilisez la commande list pour obtenir la liste des parties d'emotes pour la base, les yeux, la bouche et les extras.",
+      "generate_info": "Tu peux générer un emoji en utilisant les numéros de la partie et l'exemple ci-dessous.",
+      "generate_try": "Essaie de générer un emoji en utilisant",
+      "color_info": "Tu peux aussi ajouter une couleur pour tinter les parties d'emotes grâce à ça.",
+      "color_warn": "Certaines couleurs peuvent ne pas bien fonctionner avec différentes parties.",
+      "share_info": "Partage ton emoji avec tes amis en copiant le lien de l'image ou en utilisant la commande save pour l'ajouter à ton serveur.",
+      "share": "Partager",
+      "example": "Exemple",
+      "baseid": "ID de la base",
+      "eyeid": "ID des yeux",
+      "mouthid": "ID de la bouche",
+      "extraid": "ID de l'extra",
+      "extra_optional": "La partie extra est optionnelle."
+    },
+    "Server": {
+      "no_emotes": "Ce serveur n'a aucun emoji personnalisé.",
+      "emotes": "Emoji(s)",
+      "animated": "Animé(s)"
+    },
+    "Stats": {
+      "stats": "Statistiques",
+      "servers": "Serveurs"
+    },
+    "Search": {
+      "info": "Chercher un emoji",
+      "no_emote": "Aucun emoji n'a été trouvé avec ce nom.",
+      "author": "Auteur"
+    },
+    "Gen": {
+      "list_info": "Utilise la commande list pour les parties.",
+      "unknown_base": "Numéro de base inconnu.",
+      "unknown_eye": "Numéro d'yeux inconnu.",
+      "unknown_mouth": "Numéro de bouche inconnu.",
+      "unknown_extra": "Numero d'extra inconnu.",
+      "unknown_color": "Nom de couleur inconnu."
+    }
+  },
+  "Misc": {
+    "links": "Liens",
+    "emotes": "Emojis",
+    "base_parts": "Parties de base",
+    "eye_parts": "Parties d'yeux",
+    "mouth_parts": "Parties de bouche",
+    "extra_parts": "Parties extra",
+    "parts": "Parties",
+    "colors": "Couleurs",
+    "generate": "Générer"
+  }
+}
