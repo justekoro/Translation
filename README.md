@@ -11,7 +11,7 @@ Join my Discord server or contact me Builderb#0001
 - Indonesia  | Ryanika#2103
 - Estonian   | Candyz#1061
 - Dutch      | VAC Efron#0001
-- French     | Koro~ (Baka)#7963
+- French     | koro#3351
 - German     | Andre_601#0601
 - Hungarian  | SplitXPlayZ#2071
 - Bulgarian  | EasyThe#2836
@@ -21,7 +21,7 @@ Join my Discord server or contact me Builderb#0001
 ### Minecraft translations
 - Bulgarian  | EasyThe#2836
 - Dutch      | VAC Efron#0001
-- French     | 🔥fire🔥#5549, Koro~ (Baka)#7963
+- French     | 🔥fire🔥#5549, koro#3351
 - German     | Andre_601#0601
 - Hungarian  | SplitXPlayZ#2071
 - Italian    | Minettyx#2809
